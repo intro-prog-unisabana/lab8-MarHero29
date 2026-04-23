@@ -4,3 +4,4 @@ Implementa una CLI que calcule carga por punto de soporte.
 """
 
 # TODO: Implementar según README.md
+# cambio
