@@ -6,7 +6,6 @@ def read_todo_file(file_path):
     except FileNotFoundError:
         print(f"File {file_path} not found! Returning an empty to-do list.")
         return []
-    raise NotImplementedError
 
 
 def write_todo_file(file_path, tasks):
